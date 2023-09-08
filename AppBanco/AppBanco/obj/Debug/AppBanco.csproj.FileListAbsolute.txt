@@ -1,0 +1,11 @@
+C:\Users\Ignacio\source\repos\Prog II\AppBanco\AppBanco\obj\Debug\AppBanco.csproj.AssemblyReference.cache
+C:\Users\Ignacio\source\repos\Prog II\AppBanco\AppBanco\obj\Debug\AppBanco.Properties.Resources.resources
+C:\Users\Ignacio\source\repos\Prog II\AppBanco\AppBanco\obj\Debug\AppBanco.csproj.GenerateResource.cache
+C:\Users\Ignacio\source\repos\Prog II\AppBanco\AppBanco\obj\Debug\AppBanco.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\source\repos\Prog II\AppBanco\AppBanco\bin\Debug\AppBanco.exe.config
+C:\Users\Ignacio\source\repos\Prog II\AppBanco\AppBanco\bin\Debug\AppBanco.exe
+C:\Users\Ignacio\source\repos\Prog II\AppBanco\AppBanco\bin\Debug\AppBanco.pdb
+C:\Users\Ignacio\source\repos\Prog II\AppBanco\AppBanco\obj\Debug\AppBanco.exe
+C:\Users\Ignacio\source\repos\Prog II\AppBanco\AppBanco\obj\Debug\AppBanco.pdb
+C:\Users\Ignacio\source\repos\Prog II\AppBanco\AppBanco\obj\Debug\AppBanco.Vistas.frmCuentas.resources
+C:\Users\Ignacio\source\repos\Prog II\AppBanco\AppBanco\obj\Debug\AppBanco.Form1.resources
